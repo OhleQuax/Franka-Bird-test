@@ -1,4 +1,4 @@
-# Franka Bird
+# Franka Bird Martin
 
 Projekt von Group-Bird für Franka Robotics (M.A., Franka X Mu): Wie zeigt der FR3 Duo, was er wahrnimmt, denkt und vorhat?
 
